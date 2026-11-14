@@ -2,23 +2,35 @@
 
 ## Our Pledge
 
-We are committed to making participation in this project a welcoming and respectful experience for everyone.
+We pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, background, experience level, or other personal characteristics.
 
-## Expected Behavior
+## Our Standards
 
-- Be respectful and considerate.
-- Communicate clearly and constructively.
-- Accept feedback gracefully.
-- Focus on what is best for the project and its users.
+Examples of behavior that contribute to a positive environment include:
 
-## Unacceptable Behavior
+- Using welcoming and inclusive language.
+- Being respectful of differing viewpoints and experiences.
+- Accepting constructive criticism gracefully.
+- Focusing on what is best for the community.
 
-Harassment, discrimination, personal attacks, or disrespectful behavior are not acceptable.
+Unacceptable behavior includes harassment, discrimination, personal attacks, and other inappropriate conduct.
 
-## Enforcement
+## Enforcement Responsibilities
 
-Project maintainers may take appropriate action in response to unacceptable behavior.
+Project maintainers are responsible for clarifying and enforcing the standards of acceptable behavior and may take appropriate action in response to unacceptable behavior.
 
 ## Scope
 
-This Code of Conduct applies to all project spaces and interactions related to this repository.
+This Code of Conduct applies within all project spaces and when an individual is officially representing the project or its community.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers. All reports will be reviewed and investigated as appropriate.
+
+## Enforcement Guidelines
+
+Project maintainers will take appropriate and fair corrective action in response to behavior that violates this Code of Conduct. Actions may include a warning, temporary restriction, or permanent removal from project participation.
+
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
